@@ -29,10 +29,11 @@ Interactive Power BI dashboard for business insights
 
 🛠️ Project Workflow
 
-Data Extraction
+1.Data Extraction
+
 Loaded the Amazon sales dataset into Python and SQL environments.
 
-Data Cleaning & Transformation
+2.Data Cleaning & Transformation
 
 Handled missing values
 
@@ -44,13 +45,13 @@ Created calculated metrics
 
 Exploratory Data Analysis (EDA)
 
-Trend analysis: yearly, monthly, and seasonal
+3.Trend analysis (yearly, monthly, and seasonal)
 
 Revenue, units sold, and profit distribution
 
 Category and region performance
 
-Dashboard Creation (Power BI)
+4.Dashboard Creation (Power BI)
 
 KPIs for revenue, cost, and profit
 
@@ -73,20 +74,6 @@ Region-wise revenue visualization
 Item type profit distribution
 
 Sales channel comparison (Online vs Offline)
-
-📁 Project Files
-
-Amazon Sales Analysis Final Project.pdf – Final report
-
-Amazon Sales data_Python.pdf – Python code output
-
-Amazon Sales data_Power BI.pdf – Power BI dashboard export
-
-Analyzing Amazon Sales data.ipynb – Notebook with full analysis
-
-Amazon Sales data.csv – Dataset
-
-Amazon Sales data.pbix – Power BI dashboard file
 
 📈 Results & Insights
 

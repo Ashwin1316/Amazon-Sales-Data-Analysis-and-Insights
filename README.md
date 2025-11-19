@@ -102,7 +102,7 @@ Profitability varies widely across item categories and regions.
 
 Clone the repository:
 
-git clone https://github.com/your-username/Amazon-Sales-Analysis.git
+git clone https://github.com/Ashwin1316/Amazon-Sales-Data-Analysis-and-Insights.git
 
 Install Python dependencies:
 

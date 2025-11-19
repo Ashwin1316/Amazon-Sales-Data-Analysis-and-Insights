@@ -100,7 +100,3 @@ Open and run the Jupyter Notebook:
 jupyter notebook
 
 Open the Power BI file (.pbix) in Power BI Desktop.
-
-📬 Contact
-
-If you have any questions, feel free to reach out!

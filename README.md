@@ -1,4 +1,4 @@
-Amazon Sales Data Analysis and Insights
+# Amazon-Sales-Data-Analysis-and-Insights
 📌 Project Overview
 
 This project focuses on analyzing Amazon sales data to uncover key business insights. It involves performing ETL operations, cleaning and transforming raw data, analyzing sales performance, and building interactive dashboards. The goal is to identify trends, evaluate profit metrics, and explore relationships across product categories, regions, and sales channels.
@@ -104,16 +104,13 @@ Clone the repository:
 
 git clone https://github.com/your-username/Amazon-Sales-Analysis.git
 
-
 Install Python dependencies:
 
 pip install -r requirements.txt
 
-
 Open and run the Jupyter Notebook:
 
 jupyter notebook
-
 
 Open the Power BI file (.pbix) in Power BI Desktop.
 
